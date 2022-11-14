@@ -1,0 +1,29 @@
+.yax-img{
+    width:100px;
+    border: 0px dashed #a98467;
+    border-radius: 100px;
+    
+}
+.card{
+    display: flex;
+    padding: 20px;
+    justify-content: space-evenly;
+    width: 400px;
+    margin: 0 auto;
+    background-color: #6d6875;
+    border-top:8px solid #d5bdaf;
+    border-bottom:8px solid #d5bdaf;
+    color: #edf6f9;
+    border-radius: 100px;
+    }
+body{
+    margin: 20px;
+    font-family: Garamond;
+
+}
+.word-text{
+    border: 8px groove #d6ccc2;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 50px;
+}
